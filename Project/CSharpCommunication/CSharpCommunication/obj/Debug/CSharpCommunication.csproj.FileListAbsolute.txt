@@ -1,0 +1,13 @@
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\bin\Debug\CSharpCommunication.exe.config
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\bin\Debug\CSharpCommunication.exe
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\bin\Debug\CSharpCommunication.pdb
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\bin\Debug\TwinCAT.Ads.dll
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\bin\Debug\TwinCAT.Ads.xml
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\obj\Debug\CSharpCommunication.Form1.resources
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\obj\Debug\CSharpCommunication.Properties.Resources.resources
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\obj\Debug\CSharpCommunication.csproj.GenerateResource.cache
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\obj\Debug\CSharpCommunication.csproj.CoreCompileInputs.cache
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\obj\Debug\CSharpCommunication.csproj.CopyComplete
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\obj\Debug\CSharpCommunication.exe
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\obj\Debug\CSharpCommunication.pdb
+C:\OzcanBelgeler\Project\CSharpCommunication\CSharpCommunication\obj\Debug\CSharpCommunication.csprojAssemblyReference.cache
